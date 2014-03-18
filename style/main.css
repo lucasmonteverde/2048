@@ -313,19 +313,20 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 55px; }
+    font-size: 55px;
+	text-indent: -9999px;}
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+	background: #eee4da url(../images/0.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+	background: #ede0c8 url(../images/1.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+	background: #f2b179 url(../images/2.jpg); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+	background: #f59563 url(../images/3.jpg); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
